@@ -1,3 +1,14 @@
+## basic commands
+
+nest new project-name
+nest g module module-name
+nest g controller controller-name
+nest g service service-name
+npx prisma migrate dev --name name_change
+npx prisma generate
+nest g resource resource-name
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
